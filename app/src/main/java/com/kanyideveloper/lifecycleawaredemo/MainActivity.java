@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 
-//Lifecycle Owner
+//LifecycleOwner
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";

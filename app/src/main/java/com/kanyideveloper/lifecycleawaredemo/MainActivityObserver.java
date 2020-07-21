@@ -6,7 +6,7 @@ import androidx.lifecycle.Lifecycle;
 import androidx.lifecycle.LifecycleObserver;
 import androidx.lifecycle.OnLifecycleEvent;
 
-//Lifecycle Observer
+//LifecycleObserver
 public class MainActivityObserver implements LifecycleObserver {
 
     private static final String TAG = "MainActivityObserver";
